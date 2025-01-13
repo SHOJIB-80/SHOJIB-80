@@ -1,7 +1,7 @@
 # Hi there, I'm MD Sirajul Islam 👋. A professional Full Stack Developer. My nickname is Shojib.
 
 # My Portfolio
-Check out my portfolio: [MyPortfolio.com]([https://mdsirajulislamshojib.com/)]
+Check out my portfolio: [mdsirajulislamshojib.com](https://mdsirajulislamshojib.com/)
 
 ### About Me
 - 🌱 I’m currently learning new technologies and improving my coding skills.
