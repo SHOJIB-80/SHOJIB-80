@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: Email: [mdsirajulislamshojib80@gmail.com] | [LinkedIn](https://www.linkedin.com/in/shojib-80/)
+- 📫 How to reach me: Email: [mdsirajulislamshojib80@gmail.com] | [LinkedIn](https://www.linkedin.com/in/shojib-80/), [Facebook](https://www.facebook.com/MD.Sirajul.Islam.Shojib), [Instagram](https://www.instagram.com/md._.sirajul_islam?fbclid=IwY2xjawHx7N9leHRuA2FlbQIxMAABHWSR2pP4gj6fYiZ0_WGNJU-ktb5nFsu2NTgXMVTetjs7N_3cS9ZXkPZx2A_aem__wsSZUlutVzBSktvmNqF8A), [Youtube](https://www.youtube.com/@MASTERSHOJIB)
 - ⚡ Fun fact: I love to solve coding challenges and participate in hackathons.
 
 ## My Skills
