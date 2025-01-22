@@ -1,4 +1,4 @@
-# Hi there, I'm MD Sirajul Islam 👋. A professional Full Stack Developer. My nickname is Shojib.
+# Hi there, I'm MD Sirajul Islam 👋. A professional Full Stack Developer and I have done BSC in Computer Science and Engineering from East West University. My nickname is Shojib.
 
 # My Portfolio
 Check out my portfolio: [mdsirajulislamshojib.com](https://mdsirajulislamshojib.com/)
