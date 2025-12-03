@@ -52,10 +52,10 @@ Replay Option: Allows players to restart and enjoy multiple rounds of the game.
 This project is a great way to learn C programming basics while building a fun and interactive game.
 
 ## GitHub Stats
-![Shojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHOJIB-80&show_icons=true&theme=radical)
+![Shojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shojib-80&show_icons=true&theme=radical&cache_seconds=86400)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOJIB-80&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shojib-80&layout=compact&theme=radical&cache_seconds=86400)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shojib-80/)
