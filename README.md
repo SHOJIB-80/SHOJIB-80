@@ -6,7 +6,7 @@ Check out my portfolio: [mdsirajulislamshojib.com](https://mdsirajulislamshojib.
 ### About Me
 - 🌱 I’m currently learning new technologies and improving my coding skills.
 - 👯 I’m looking to collaborate on open-source projects.
-- 📫 How to reach me: Email: [mdsirajulislamshojib80@gmail.com] | [LinkedIn](https://www.linkedin.com/in/shojib-80/), [Facebook](https://www.facebook.com/MD.Sirajul.Islam.Shojib), [Instagram](https://www.instagram.com/md._.sirajul_islam?fbclid=IwY2xjawHx7N9leHRuA2FlbQIxMAABHWSR2pP4gj6fYiZ0_WGNJU-ktb5nFsu2NTgXMVTetjs7N_3cS9ZXkPZx2A_aem__wsSZUlutVzBSktvmNqF8A), [Youtube](https://www.youtube.com/@MASTERSHOJIB)
+- 📫 How to reach me: Email: [mdsirajulislamshojib80@gmail.com] | [LinkedIn](https://www.linkedin.com/in/shojib-80/), [Facebook](https://www.facebook.com/MD.Sirajul.Islam.Shojib), [Instagram](htt[...]  
 - ⚡ Fun fact: I love to solve coding challenges and participate in hackathons.
 
 ## My Skills
@@ -17,16 +17,16 @@ Check out my portfolio: [mdsirajulislamshojib.com](https://mdsirajulislamshojib.
 
 ## Projects
 ### Project Name: School Management System , Link: [https://github.com/SHOJIB-80/School-Management-System-]
-The School Management System is a simple Java-based application designed to efficiently manage the core operations of a school. It allows administrators to handle student, teacher, and course data while ensuring secure access through user authentication.
+The School Management System is a simple Java-based application designed to efficiently manage the core operations of a school. It allows administrators to handle student, teacher, and course data[...]  
 
 - Technologies: Java
 Key Features:
 
 Student Management:
-Add, view, and manage student details like name and age.
+Add, view, manage student details like name and age.
 
 Teacher Management:
-Add, view, and manage teacher details like name and subject expertise.
+Add, view, manage teacher details like name and subject expertise.
 
 Course Management:
 Create courses and assign students and teachers to them.
@@ -36,11 +36,11 @@ Validate user credentials for secure access to the system.
 
 Centralized Control:
 The Main.java file acts as the hub, integrating all modules and providing an interactive menu for easy navigation.
-This system is an efficient tool for organizing school operations and serves as a foundational project for understanding Java concepts like object-oriented programming, file handling, and modular design.
+This system is an efficient tool for organizing school operations and serves as a foundational project for understanding Java concepts like object-oriented programming, file handling, and modular [...]  
 
 ### Project Name: The Hangman Game ,  Link: (https://github.com/SHOJIB-80/The-Hangman)
 Introduction:
-"The Hangman Game" is a simple and engaging word-guessing game where players attempt to uncover a hidden word one letter at a time. With each incorrect guess, a part of the hangman figure is drawn, adding suspense and challenge to the gameplay.
+"The Hangman Game" is a simple and engaging word-guessing game where players attempt to uncover a hidden word one letter at a time. With each incorrect guess, a part of the hangman figure is drawn[...]  
 
 Used Language: C
 Key Features:
@@ -52,10 +52,10 @@ Replay Option: Allows players to restart and enjoy multiple rounds of the game.
 This project is a great way to learn C programming basics while building a fun and interactive game.
 
 ## GitHub Stats
-![Shojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shojib-80&show_icons=true&theme=radical&cache_seconds=86400)
+![Shojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHOJIB-80&show_icons=true&theme=radical&cache_seconds=86400)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shojib-80&layout=compact&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOJIB-80&layout=compact&theme=radical&cache_seconds=86400)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shojib-80/)
