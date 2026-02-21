@@ -28,8 +28,9 @@ Introduction:
 
 Used Language: C
 
-## Project name : Student Management System Database , Link: ()
-
+## Project name: Student Management System Database, Link: (https://github.com/SHOJIB-80/STUDENT-MANAGEMENT-SYSTEM-DATABASE-)
+Introduction: The Student  Management System is a simple PHP, SQL-based Web designed to efficiently manage the core operations of a University. It allows administrators to handle student, teacher, and course data[...]  
+Used Language: PHP, CSS, SQL
 
 ## Certificates - https://www.kaggle.com/certification/badges/sirajul10/105
 ## GitHub Stats
