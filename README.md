@@ -20,36 +20,13 @@ Check out my portfolio: [mdsirajulislamshojib.com](https://mdsirajulislamshojib.
 The School Management System is a simple Java-based application designed to efficiently manage the core operations of a school. It allows administrators to handle student, teacher, and course data[...]  
 
 - Technologies: Java
-Key Features:
 
-Student Management:
-Add, view, manage student details like name and age.
-
-Teacher Management:
-Add, view, manage teacher details like name and subject expertise.
-
-Course Management:
-Create courses and assign students and teachers to them.
-
-User Authentication:
-Validate user credentials for secure access to the system.
-
-Centralized Control:
-The Main.java file acts as the hub, integrating all modules and providing an interactive menu for easy navigation.
-This system is an efficient tool for organizing school operations and serves as a foundational project for understanding Java concepts like object-oriented programming, file handling, and modular [...]  
-
+Certificates - https://www.kaggle.com/certification/badges/sirajul10/105
 ### Project Name: The Hangman Game ,  Link: (https://github.com/SHOJIB-80/The-Hangman)
 Introduction:
 "The Hangman Game" is a simple and engaging word-guessing game where players attempt to uncover a hidden word one letter at a time. With each incorrect guess, a part of the hangman figure is drawn[...]  
 
 Used Language: C
-Key Features:
-Random Word Selection: The game randomly chooses a word for unpredictable and varied challenges.
-Limited Guesses: Players have a set number of chances to guess the correct word.
-Dynamic Feedback: Displays the partially guessed word and visually tracks progress with the hangman figure.
-Input Validation: Ensures inputs are valid and prevents duplicate guesses.
-Replay Option: Allows players to restart and enjoy multiple rounds of the game.
-This project is a great way to learn C programming basics while building a fun and interactive game.
 
 ## GitHub Stats
 ![Shojib's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHOJIB-80&show_icons=true&theme=radical&cache_seconds=86400)
