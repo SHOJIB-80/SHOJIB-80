@@ -154,11 +154,7 @@ Desktop application managing school operations — student records, teacher assi
 ## Contribution graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="assets/activity-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
-    <img src="assets/activity-dark.svg" width="100%" alt="Contribution activity graph" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHOJIB-80&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF" width="100%" alt="Contribution activity graph" />
 </div>
 
 ---
