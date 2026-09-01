@@ -155,7 +155,7 @@ Desktop application managing school operations — student records, teacher assi
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SHOJIB-80&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SHOJIB-80&theme=github-compact&hide_border=true&area=true&v=2"
     width="100%"
     alt="Contribution graph"
   />
