@@ -154,11 +154,9 @@ Desktop application managing school operations — student records, teacher assi
 ## Contribution graph
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SHOJIB-80&theme=github-compact&hide_border=true&area=true&v=2"
-    width="100%"
-    alt="Contribution graph"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHOJIB-80&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=SHOJIB-80&theme=tokyonight&hide_border=true" width="48%" alt="GitHub streak" />
 </div>
 
 ---
