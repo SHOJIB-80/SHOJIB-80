@@ -160,6 +160,13 @@ Desktop application managing school operations — student records, teacher assi
     alt="Contribution graph"
   />
 </div>
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SHOJIB-80&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    width="100%"
+    alt="GitHub streak"
+  />
+</div>
 
 ---
 
