@@ -172,7 +172,7 @@ Desktop application managing school operations — student records, teacher assi
 
 ## Currently
 
-Right now I'm focused on building things that work at a professional level — not just feature-complete but maintainable, structured, and deployable. Next.js with TypeScript for the frontend, proper API design on the backend.
+Right now I'm focused on building things that work at a professional level — not just feature-complete but maintainable, structured, and deployable. Next.js with TypeScript for the frontend, proper API design on the backend. Here's my codepen - https://codepen.io/MD-Sirajul-Islam-the-builder
 
 If you're a recruiter or client looking at this profile: I don't have ten years of experience. What I do have is a clear understanding of how the full stack fits together and a track record of finishing what I start. That's worth something.
 
